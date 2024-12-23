@@ -43,11 +43,12 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 5. <mark>Grounding-Bench</mark> **"LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models"**. *Zhang H, Li H, Li F, et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2312.02949)] [[Github](https://github.com/UX-Decoder/LLaVA-Grounding)].
    
 **Fine-grained Identification and Recognition**
-1. <mark>GVT-Bench</mark> **"What Makes for Good Visual Tokenizers for Large Language Models?"**. *Wang G, Ge Y,Ding X, et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2305.12223)] [[Github](https://github.com/TencentARC/GVT)].
-2. <mark>V* Bench</mark> **"V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs"**. *Wu P, Xie S.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2312.14135)] [[Github](https://github.com/penghao-wu/vstar)].
-3. <mark>MMVP</mark> **"Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs"**. *Tong S,Liu Z,Zhai Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2401.06209)] [[Github](https://tsb0601.github.io/mmvp_blog/)].
-4. <mark>CV-Bench</mark> **"Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs"**. *Tong S,Brown E,Wu P, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2406.16860)] [[Github](https://cambrian-mllm.github.io/)].
-5. <mark>P2GB</mark> **"Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models"**. *Chen J, Liu Y, Li D, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2403.19322)] [[Github]()].
+1. <mark>Inst-IT Bench</mark> **"Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning"**. *Peng W, Meng L, Chen Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2412.03565)] [[Github](https://github.com/inst-it/inst-it)][[Project Page](https://inst-it.github.io/)].
+2. <mark>GVT-Bench</mark> **"What Makes for Good Visual Tokenizers for Large Language Models?"**. *Wang G, Ge Y,Ding X, et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2305.12223)] [[Github](https://github.com/TencentARC/GVT)].
+3. <mark>V* Bench</mark> **"V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs"**. *Wu P, Xie S.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2312.14135)] [[Github](https://github.com/penghao-wu/vstar)].
+4. <mark>MMVP</mark> **"Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs"**. *Tong S,Liu Z,Zhai Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2401.06209)] [[Github](https://tsb0601.github.io/mmvp_blog/)].
+5. <mark>CV-Bench</mark> **"Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs"**. *Tong S,Brown E,Wu P, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2406.16860)] [[Github](https://cambrian-mllm.github.io/)].
+6. <mark>P2GB</mark> **"Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models"**. *Chen J, Liu Y, Li D, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2403.19322)] [[Github]()].
 7. <mark>Visual CoT</mark> **"Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning"**. *Shao H, Qian S, Xiao H, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2403.16999)] [[Github](https://github.com/deepcs233/Visual-CoT)].
 8. <mark>MagnifierBench</mark> **"OtterHD: A High-Resolution Multi-modality Model"**. *Li B, Zhang  P, Yang J, et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2311.04219)] [[Github](https://github.com/Luodian/Otter)].
 9. <mark>HR-Bench</mark> **"Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models"**. *Wang W, Ding L,Zeng  M, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2408.15556)] [[Github](https://github.com/DreamMr/HR-Bench)].
@@ -56,7 +57,7 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 
 **Nuanced Vision-language Alignment**
 1. <mark>Eqben</mark> **"Equivariant Similarity for Vision-Language Foundation Models"**. *Wang T, Lin, K. Li L,Lin C, et al.*. ICCV 2023. [[Paper](https://arxiv.org/abs/2303.14465)] [[Github](https://github.com/Wangt-CN/EqBen)].
-2. <mark>SPEC</mark> **"Asclepius: A Spectrum Evaluation Benchmark for Medical Multi-Modal Large Language Models"**. *Wang W, Su Y, Huan Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2402.11217)] [[Github](https://asclepius-med.github.io/)].
+2. <mark>SPEC</mark> **"Synthesize, Diagnose, and Optimize: Towards Fine-Grained Vision-Language Understanding"**. *Peng W, Xie S, You Z, et al.*. CVPR 2024. [[Paper](https://arxiv.org/abs/2312.00081)] [[Github](https://github.com/wjpoom/SPEC)].
 3. <mark>VALSE</mark> **"When and why vision-language models behave like bags-of-words, and what to do about it?"**. *Yuksekgonul M, Bianchi F, Kalluri P, et al.*. ICLR 2023. [[Paper](https://arxiv.org/abs/2210.01936)] [[Github]()].
 4. <mark>VL-Checklist</mark> **"VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations"**. *Zhao T, Zhang T, Zhu M, et al.*. arXiv 2023. [[Paper](https://arxiv.org/abs/2207.00221)] [[Github](https://github.com/om-ai-lab/VL-CheckList)].
 5. <mark>Winoground</mark> **"Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality"**. *Thrush T, Jiang R, Bartolo M, et al.*. CVPR 2022. [[Paper](https://arxiv.org/abs/2204.03162)] [[Github](https://huggingface.co/datasets/facebook/winoground)].
@@ -287,6 +288,9 @@ Multimodal Large Language Models (MLLMs) are gaining increasing popularity in bo
 6. <mark>OSCaR</mark> **"OSCaR: Object State Captioning and State Change Representation"**. *Nguyen N, Bi J, Vosoughi A, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2402.17128)] [[Github](https://github.com/nguyennm1024/OSCaR)].
 7. <mark>ADLMCQ</mark> **"LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living"**. *Chakraborty R, Sinha A, Reilly D, et al.*. arXiv 2024. [[Paper](https://arxiv.org/pdf/2406.09390)] [[Github](https://github.com/ADL-X/LLAVIDAL)].
 8. <mark>Perception Test</mark> **"Perception Test: A Diagnostic Benchmark for Multimodal Video Models"**. *Patraucean V, Smaira L, Gupta A, et al.*. NeurIPS2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8540fba4abdc7f9f7a7b1cc6cd60e409-Paper-Datasets_and_Benchmarks.pdf)] [[Github](https://github.com/google-deepmind/perception_test)].
+
+**Fine-Grained Understanding**
+1. <mark>Inst-IT Bench</mark> **"Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning"**. *Peng W, Meng L, Chen Y, et al.*. arXiv 2024. [[Paper](https://arxiv.org/abs/2412.03565)] [[Github](https://github.com/inst-it/inst-it)][[Project Page](https://inst-it.github.io/)].
 
 **Long Video Understanding**
 1. <mark>MovieChat-1k</mark> **"Moviechat: From dense token to sparse memory for long video understanding"**. **. . [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_MovieChat_From_Dense_Token_to_Sparse_Memory_for_Long_Video_CVPR_2024_paper.pdf)] [[Github](https://github.com/rese1f/MovieChat)].
